@@ -1,0 +1,14 @@
+## Gift Wrapping Steps ## 
+
+#1. Initialize gift-wrapping process 
+#2. Add ALL the gifts (into 1 box )
+#3. Commit a message describing why / what you are sending 
+#4. Send the gift to the correct address 
+	# (First time only! They will ask you for confirmation)
+
+
+## Git Push Process ## 
+#1. git init 
+#2. git add . 
+#3. git commit -m "this is a push to add a button to the dashboard"
+#4. git push <url> 
